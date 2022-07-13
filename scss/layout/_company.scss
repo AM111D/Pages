@@ -1,0 +1,60 @@
+.company {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.company__title {
+    margin-top: 140px;
+
+    font-weight: 400;
+        font-size: 42px;
+        line-height: 50px;
+        text-align: center;
+        text-transform: capitalize;
+    
+        color: #1B3764;
+}
+
+.company__list {
+    display: flex;
+    margin-top: 75px;
+    justify-content: center;
+}
+
+.company__list__item {
+        height: 350px;
+            width: 300px;
+            margin-right: 33px;
+}
+
+.company__list__item img {
+    margin-left: 50px;
+}
+
+.company__list__item h4 {
+    margin-top: 20px;
+    font-family: 'Cardo';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        /* identical to box height, or 120% */
+    
+        text-align: center;
+    
+        color: #1B3764;
+}
+
+.company__list__item p {
+    margin-top: 20px;
+    font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 28px;
+        /* or 150% */
+    
+        text-align: center;
+    
+        color: #969AA0;
+}
