@@ -21,7 +21,7 @@
 .learn__list {
     display: grid;
         grid-template-columns: auto auto;
-    padding: 130px;
+    padding: 90px;
         // padding: 10px;
 }
 
@@ -89,11 +89,10 @@ width: 40px;
 }
 
 .sss {
-        border: 10px solid #FFCA42;
-            height: 640px;
-            width: 568px;
-            position: absolute;
-            left: 1065px;
-            top: 4286px;
-            z-index: 0.5;
+    border: 10px solid #ffca42;
+    height: 640px;
+    width: 568px;
+    position: absolute;
+    left: 1456px;
+    top: 4300px;
 }
