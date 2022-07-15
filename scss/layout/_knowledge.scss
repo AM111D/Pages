@@ -74,6 +74,23 @@ color: #1B3764;
         margin-right: 15px;
 }
 
+.knowledge-list__style__item {
+    // width: 40px;
+    // height: 40px;
+    // line-height: 40px;
+    // background: #ffca42;
+    // margin: 1em;
+    // border-radius: 50%;
+    // text-align: center;
+    // content: "s";
+    height: 16px;
+    width: 16px;
+    background-color: #FFCA42;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+}
+
 .knowledge-list__item__style span {
     font-family: 'Inter';
         font-style: normal;
@@ -82,3 +99,50 @@ color: #1B3764;
         line-height: 27px;
         color: #969AA0;
 }
+
+.knowledge-btn {
+font-family: 'Cardo';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.57px;
+text-transform: capitalize;
+color: #1B3764;
+
+margin: 0 auto;
+display: block;
+margin-top: 70px;
+
+background: #FFCA42;
+border: 2px solid #FFCA42;
+border-radius: 0px;
+width: 430px;
+height: 76px;
+cursor: pointer;
+
+}
+
+.knowledge-about {
+    display: block;
+    margin: 0 auto;
+    margin-top: 34px;
+    padding-bottom: 130px;
+    text-align: center;
+
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 158% */
+
+text-align: center;
+
+color: #969AA0;
+
+}
+
+.knowledge-about__link {}
+
