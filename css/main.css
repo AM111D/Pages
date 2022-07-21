@@ -32,7 +32,7 @@ svg {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 1550px;
+  width: 1440px;
 }
 
 .header__link {
@@ -76,7 +76,7 @@ svg {
 }
 
 .header__nav__link {
-  margin-right: 100px;
+  margin-right: 55px;
 }
 .header__nav__link:hover, .header__nav__link:focus {
   color: #FFCA42;
@@ -263,7 +263,7 @@ svg {
 }
 
 .book__options__item {
-  margin-right: 86px;
+  margin-right: 65px;
 }
 
 .book__options__item__title {
@@ -274,6 +274,7 @@ svg {
   line-height: 29px;
   letter-spacing: 0.48px;
   color: #FFFFFF;
+  margin-left: -20px;
 }
 .book__options__item__title::before {
   content: "";
@@ -296,7 +297,7 @@ svg {
   font-size: 17px;
   line-height: 27px;
   color: #B4C7E7;
-  margin-left: 30px;
+  margin-left: 10px;
   margin-top: 12px;
 }
 
@@ -716,6 +717,7 @@ svg {
   height: 255px;
   background-color: #F4F8FF;
   margin-left: 60px;
+  margin-right: 40px;
 }
 .learn__item:nth-child(2) {
   margin-left: -10px;
@@ -766,8 +768,8 @@ svg {
   height: 640px;
   width: 568px;
   position: absolute;
-  left: 1456px;
-  top: 4300px;
+  left: 1388px;
+  top: 4282px;
 }
 
 .knowledge {

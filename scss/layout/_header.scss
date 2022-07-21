@@ -41,7 +41,7 @@
 }
 
 .header__nav__link {
-    margin-right: 100px;
+    margin-right: 55px;
     &:hover,
         &:focus {
             color: #FFCA42;
@@ -244,7 +244,7 @@ float: right;
 }
 
 .book__options__item {
-    margin-right: 86px;
+    margin-right: 65px;
 }
 
 .book__options__item__title {
@@ -255,6 +255,7 @@ font-family: 'Cardo';
     line-height: 29px;
     letter-spacing: 0.48px;
     color: #FFFFFF;
+    margin-left: -20px;
 
     &::before {
             content: "";
@@ -278,7 +279,7 @@ font-family: 'Inter';
     font-size: 17px;
     line-height: 27px;
     color: #B4C7E7;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-top: 12px; 
 }
 
