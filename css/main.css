@@ -120,6 +120,7 @@ body {
 .header__social li {
   margin-left: 20px;
   background: #FFFFFF;
+  border-radius: 10px;
 }
 
 .header__nav__item {
